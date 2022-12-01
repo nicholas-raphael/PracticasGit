@@ -12,6 +12,6 @@ Cancion que inicie con H: halo de beyonce
 
 Lenguaje de programacion favorito: elixir
 
-Bebida favorita:
+Bebida favorita: milk tea
 
 Dia favorito de la semana:
