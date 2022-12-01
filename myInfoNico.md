@@ -14,4 +14,4 @@ Lenguaje de programacion favorito: elixir
 
 Bebida favorita: milk tea
 
-Dia favorito de la semana:
+Dia favorito de la semana: Domingo
