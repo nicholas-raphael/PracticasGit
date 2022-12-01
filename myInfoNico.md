@@ -1,6 +1,6 @@
 Nombre: Nico :3
 
-Color Favorito:
+Color Favorito: cian 
 
 Palabra que inicie con R:
 
