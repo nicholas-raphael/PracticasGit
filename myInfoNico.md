@@ -6,7 +6,7 @@ Palabra que inicie con R: rata
 
 Pelicula de terror: la cabana del terror
 
-Comida mexicana favorita:
+Comida mexicana favorita: tacos
 
 Cancion que inicie con H:
 
