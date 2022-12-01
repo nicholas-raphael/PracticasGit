@@ -10,7 +10,7 @@ Comida mexicana favorita: tacos
 
 Cancion que inicie con H: halo de beyonce
 
-Lenguaje de programacion favorito:
+Lenguaje de programacion favorito: elixir
 
 Bebida favorita:
 
