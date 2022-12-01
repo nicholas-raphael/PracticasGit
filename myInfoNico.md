@@ -2,7 +2,7 @@ Nombre: Nico :3
 
 Color Favorito: cian 
 
-Palabra que inicie con R:
+Palabra que inicie con R: rata 
 
 Pelicula de terror:
 
